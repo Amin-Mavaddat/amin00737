@@ -1,45 +1,48 @@
-<h1 align="center">Amin Mavaddat</h1>
+# Amin Mavaddat
 
 <p align="center">
-Multimodal Systems • Industrial AI • Diffusion models • DRL
+  **Multimodal AI • Computer Vision • Diffusion Models • Reinforcement Learning**
 </p>
 
-<br>
-
 <p align="center">
-Focused on agentic systems, multimodal learning, retrieval-augmented generation, and industrial AI pipelines.
+  **[Visit My Website](https://website-a1z.pages.dev/)**
 </p>
 
 ---
 
 ### About
 
-- Building GenAI and multimodal AI systems for industrial applications  
-- Working with LLMs, VLLMs, RAG pipelines, and AI agents  
-- Experienced in reinforcement learning, computer vision, and robotics  
-- Research-oriented engineering focused on deployment and real-world systems  
+AI Research Engineer working on multimodal learning, advanced computer vision, generative models, and intelligent systems.
 
----
+My work focuses on:
+- Multimodal AI and Vision-Language Models
+- Computer Vision (2D/3D) and Diffusion Models
+- Deep Reinforcement Learning
+- Agentic Systems and Retrieval-Augmented Generation
+- Industrial AI and Robotics
 
-### Research
+### Research Interests
 
-- Agentic RAG systems  
-- Computer vision and diffusion models  
-- Reinforcement learning  
+- Generative AI and Multimodal Learning
+- 3D Perception and Reconstruction
+- Reinforcement Learning for Autonomous Systems
+- Agentic RAG and Knowledge Systems
 
----
+### Technical Stack
 
-### Stack
-
-Python • SQL • Databricks • Snowflake • AWS • DBT • Docker • Kubernetes • LangGraph • LangSmith • Vector Databases  
+Python • PyTorch • SQL • AWS • Databricks • Snowflake • Docker • Kubernetes • LangGraph • LangSmith • Vector Databases
 
 ---
 
 <p align="center">
-Public repository activity may appear limited while focusing on ongoing research and publications.
+  **Explore my background, research, projects, and publications:**
 </p>
 
-<br>
+<p align="center">
+  <a href="https://website-a1z.pages.dev/">
+    <strong>website-a1z.pages.dev</strong>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" height="150">
